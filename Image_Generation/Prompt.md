@@ -1,3 +1,5 @@
+https://chatgpt.com/share/6af9b22b-386c-83e8-b272-a9ccadef2bf3
+
 Create a hand-drawn sketchnote infographic on "AI Agents for QA using Playwright".
 
 Style: visual note-taking, whiteboard illustration, hand-sketched doodles, colorful marker highlights, professional yet friendly.
