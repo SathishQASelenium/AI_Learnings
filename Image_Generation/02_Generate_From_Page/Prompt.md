@@ -1,0 +1,3 @@
+https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZWZmMTM0ZGEtNmMxOS00NWJhLWFlMTUtNWZiYjNlYWFhODI0IiwiY29udmVyc2F0aW9uSWQiOiIwNTQ4MzQzYi1lMTYxLTQ0YjktYmU5MS00OTAyZWMzNGZlNzQifQ%3D%3D
+
+I want you to generate different images based on the topics covered in the page https://app.thetestingacademy.com/class/star-clear-crisp-prompt-frameworks-reusable-qa-templates-context-files Style: visual note-taking, whiteboard illustration, hand-sketched doodles, colorful marker highlights, professional yet friendly.Visual style:Handwritten textColored sticky-note boxesDoodle arrowsSmall technology iconsClean white backgroundProfessional conference poster qualityHigh resolutionLandscape format
